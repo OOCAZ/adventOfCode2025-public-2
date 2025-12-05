@@ -1,0 +1,4 @@
+# Ignore inputs and node modules
+inputs/
+node_modules/
+.DS_Store

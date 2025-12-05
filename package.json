@@ -1,0 +1,14 @@
+{
+  "name": "adventofcode2025-solutions",
+  "version": "1.0.0",
+  "description": "Solution code only (no inputs) for Advent of Code 2025",
+  "main": "",
+  "scripts": {
+    "start": "node day5/day5-3.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
